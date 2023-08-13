@@ -1,0 +1,14 @@
+---
+- name: Your Name
+  hosts: all
+  gather_facts: true
+
+  vars:
+    firstName: 'Barack'
+    middleName: 'Hussein'
+    lastName: 'Obama'
+
+  tasks:
+    - name: Print the name
+      ansible.builtin.debug:
+        msg: "{{ firstName }} {{ middleName }} {{ lastName }}"
