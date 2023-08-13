@@ -11,3 +11,6 @@ Code examples on some Python basics
 - Variables
 - Lists
 - Dictionaries
+
+## Ansible
+Code examples on some Ansible basics
