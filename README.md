@@ -14,3 +14,5 @@ Code examples on some Python basics
 
 ## Ansible
 Code examples on some Ansible basics
+- Printing
+- Variables
